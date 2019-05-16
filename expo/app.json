@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "FM Web",
+    "slug": "fm-web",
+    "sdkVersion": "UNVERSIONED",
+    "platforms": ["web"],
+    "web": {
+      "build": {
+        "output": "build",
+        "babel": {
+          "include": ["@test"]
+        }
+      }
+    }
+  }
+}

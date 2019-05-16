@@ -1,0 +1,12 @@
+{
+  "name": "expo-mono-test",
+  "private": true,
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/react": "^16.8.14",
+    "@types/react-native": "^0.57.47"
+  },
+  "workspaces": [
+    "*"
+  ]
+}
