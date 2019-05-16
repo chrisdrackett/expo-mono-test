@@ -4,8 +4,6 @@
   "private": true,
   "dependencies": {
     "@test/ui": "*",
-    "apollo-link-ws": "^1.0.17",
-    "apollo-utilities": "^1.2.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-native": "^0.59.8",
@@ -17,21 +15,6 @@
   },
   "scripts": {
     "start": "expo start --web",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "build": "expo build:web"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   }
 }
