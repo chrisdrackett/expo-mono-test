@@ -1,2 +1,2 @@
-export * from "./App";
+export * from "./Wrap";
 export * from "./Text";

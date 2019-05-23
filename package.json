@@ -2,11 +2,20 @@
   "name": "expo-mono-test",
   "private": true,
   "license": "UNLICENSED",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-native": "^0.59.8",
+    "react-native-web": "^0.11.4",
+    "react-scripts": "3.0.1"
+  },
   "devDependencies": {
     "@types/react": "^16.8.14",
-    "@types/react-native": "^0.57.47"
+    "@types/react-native": "^0.57.47",
+    "expo-cli": "^2.18.2"
   },
-  "workspaces": [
-    "*"
-  ]
+  "scripts": {
+    "start": "expo start --web",
+    "build": "expo build:web"
+  }
 }

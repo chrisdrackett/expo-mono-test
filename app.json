@@ -6,10 +6,7 @@
     "platforms": ["web"],
     "web": {
       "build": {
-        "output": "build",
-        "babel": {
-          "include": ["@test"]
-        }
+        "output": "build"
       }
     }
   }

@@ -28,10 +28,7 @@
     "emitDecoratorMetadata": true,
     "resolveJsonModule": true,
 
-    "baseUrl": "./",
-    "paths": {
-      "ui": ["ui"]
-    }
+    "baseUrl": "./"
   },
   "exclude": ["node_modules", "build", "scripts"]
 }
