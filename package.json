@@ -10,8 +10,6 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "@types/react": "^16.8.14",
-    "@types/react-native": "^0.57.47",
     "expo-cli": "^2.18.2"
   },
   "scripts": {
