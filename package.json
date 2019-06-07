@@ -5,12 +5,12 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-native": "^0.59.8",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
     "react-native-web": "^0.11.4",
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "expo-cli": "^2.18.2"
+    "expo-cli": "^2.19.4"
   },
   "scripts": {
     "start": "expo start --web",

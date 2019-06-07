@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "FM Web",
-    "slug": "fm-web",
-    "sdkVersion": "UNVERSIONED",
+    "name": "expoWeb",
+    "slug": "expo-web",
+    "sdkVersion": "33.0.0",
     "platforms": ["web"],
     "web": {
       "build": {
