@@ -1,0 +1,31 @@
+{
+  "background_color": "#ffffff",
+  "description": "A Neat Expo App",
+  "dir": "auto",
+  "display": "standalone",
+  "lang": "en",
+  "name": "web-test",
+  "orientation": "portrait",
+  "prefer_related_applications": true,
+  "related_applications": [],
+  "short_name": "web-test",
+  "start_url": ".",
+  "theme_color": "#4630EB",
+  "icons": [
+    {
+      "src": "/assets/icons/icon_180x180.ef58ff9a14b1871e5232fada458806e5.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_192x192.dd0d8974f196283ab21f6bb647882750.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon_512x512.b370d9dab464db3e849d854262b5d2e5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
